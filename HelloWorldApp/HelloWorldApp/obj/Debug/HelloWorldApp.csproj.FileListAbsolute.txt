@@ -1,0 +1,11 @@
+C:\Users\mehme\Desktop\Ccalismasi\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Users\mehme\Desktop\Ccalismasi\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Users\mehme\Desktop\Ccalismasi\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Users\mehme\Desktop\Ccalismasi\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Ccalismasi\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Ccalismasi\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.Form1.resources
+C:\Users\mehme\Desktop\Ccalismasi\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.Properties.Resources.resources
+C:\Users\mehme\Desktop\Ccalismasi\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Ccalismasi\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Ccalismasi\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\mehme\Desktop\Ccalismasi\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
